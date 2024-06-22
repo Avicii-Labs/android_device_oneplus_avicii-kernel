@@ -1,0 +1,18 @@
+#+TITLE: Kernel Prebuilts for OnePlus Nord (avicii)
+
+* Table of contents
+:PROPERTIES:
+:TOC:
+:END:
+:CONTENTS:
+- [[#about][About]]
+- [[#usage][Usage]]
+:END:
+
+* About
+
+This is a repository that holds the kernel prebuilts for the OnePlus Nord (avicii).
+
+* Usage
+
+When building PixelOS for OnePlus Nord (avicii), clone this repository to device/oneplus/avicii-kernel.
